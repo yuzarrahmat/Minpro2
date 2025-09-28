@@ -47,8 +47,9 @@ Saat memilih pilihan 3, Program akan meminta untuk menginput nomor pilihan game 
 Saat memilih pilihan 4,  Program akan meminta untuk menginput nomor pilihan game mana yang akan di hapus(.pop) sesuai urutan index (-1). jika input yang diisi salah(bukan angka/tidak dalam jangkauan total variabel dalam list), maka proses akan dibatalkan dan tampilan akan kembalikan ke menu pilihan. Jika input benar, maka program akan mengapus(.pop) game pada list [Game_List] dan menjadi bagian dari variabel pada list [game_terhapus]. 
 
 # Penjelasan Pilihan 5 
-<img width="854" height="205" alt="Menu 5, break" src="https://github.com/user-attachments/assets/ebf01dc6-b20d-471a-8f46-e753dd7bb285" />
-Saat memilih Pilihan 5, Program akan melakukan "break" dan menghentikan program secara menyeluruh, serta me-reset semua list-list pada program tersebut.
+<img width="774" height="399" alt="image" src="https://github.com/user-attachments/assets/2c2f0f80-8877-4ab9-869d-52bb267e6da2" />
+
+Saat memilih Pilihan 5, Program akan akan kembali menampilkan menu awal yaitu menu login dan keluar
 
 # Kondisi-kondisi tambahan - Belum ada game yang ditambahkan
 <img width="425" height="193" alt="Invalid menu 2-4, list kosong, belum  di isi" src="https://github.com/user-attachments/assets/816e0eb9-78e5-4b43-a36d-c6cbc7df2c1e" />
