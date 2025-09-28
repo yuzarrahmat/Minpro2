@@ -3,7 +3,8 @@ Nama : Yuzar Rahmat Rafi Alhaq, Nim : 2509116025, Sistem Informasi A '2025
 # Flowchart
 <img width="1956" height="2217" alt="Flowchart sistem manajemen progress game drawio" src="https://github.com/user-attachments/assets/467b195e-2066-4e5d-bed0-c8a0c8d8bc6b" />
 # Codingan
-# Program Sistem Manajemen Progress Game 
+
+#Program Sistem Manajemen Progress Game 
 game_list = []  # Ini adalah List Game yang Saat Ini Ku Mainkan
 pilihan = [] # Menampung data
 #--------------------------------------------------------------------------------------
@@ -41,7 +42,7 @@ def login_user():
         print("Terjadi kesalahan tak diketahui")
 
 #--------------------------------------------------------------------------------------
-# Fungsi Utama Admin
+#Fungsi Utama Admin
 def main_admin():
     while True:
         print("\n=== SISTEM MANAJEMEN PROGRESS GAME ===")
@@ -154,7 +155,7 @@ def main_admin():
         else:
             print("Pilihan tidak valid. Silakan pilih 1-5.")
 #--------------------------------------------------------------------------------------
-# Fungsi Utama User
+#Fungsi Utama User
 def main_user():
     while True:
         print("\n=== SISTEM MANAJEMEN PROGRESS GAME ===")
@@ -181,7 +182,7 @@ def main_user():
             print("Terjadi kesalahan tak diketahui")
             main_user()
 #--------------------------------------------------------------------------------------
-# login system
+#login system
 def login_system():
     while True:
         print("=== SELAMAT DATANG DI SISTEM MANAJEMEN PROGRESS GAME ===")
