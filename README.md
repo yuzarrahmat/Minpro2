@@ -8,7 +8,7 @@ Nama : Yuzar Rahmat Rafi Alhaq, Nim : 2509116025, Sistem Informasi A '2025
 game_list = []  # Ini adalah List Game yang Saat Ini Ku Mainkan
 pilihan = [] # Menampung data
 #--------------------------------------------------------------------------------------
-# Fungsi Login
+#Fungsi Login
 def login_admin():
     admin = {"username": "admin", "password": "admin123"}
     try:
@@ -154,7 +154,6 @@ def main_admin():
             login_system()
         else:
             print("Pilihan tidak valid. Silakan pilih 1-5.")
-#--------------------------------------------------------------------------------------
 #Fungsi Utama User
 def main_user():
     while True:
