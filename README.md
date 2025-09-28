@@ -21,7 +21,7 @@ Menu awal Ketika program dijalankan
 <img width="802" height="399" alt="image" src="https://github.com/user-attachments/assets/8b7a97ae-d894-4490-8a2f-c692f530a777" />
 Ini adalah tampilan ketika Login ketika menjadi admin dan ketika menjadi user
 
-# Admin
+# ADMIN
 
 # Penjelasan Pilihan 1
 <img width="466" height="228" alt="Menu 1 Valid progres" src="https://github.com/user-attachments/assets/3f4db82e-3136-4b5e-ab2f-00310faa5615" />
@@ -58,3 +58,19 @@ Saat memilih pilihan antara 2-4, tetapi belum ada game yang ditambahkan pada lis
 # Kondisi-kondisi tambahan - menginput pilihan diluar dari angka (1-5) pada menu pilihan
 <img width="405" height="357" alt="Input menu invalid, dan perluangan atau looping" src="https://github.com/user-attachments/assets/1d06a97d-dd3a-4431-b062-7468d96d16fd" />
 Saat menginput pilihan diluar dari angka (1-5) pada menu pilihan, maka program akan menampilkan ulang menu pilihan dan memberikan pemberitahuan input invalid.
+
+# USER
+
+# Penjelasan pilihan 1
+<img width="662" height="429" alt="image" src="https://github.com/user-attachments/assets/8a4747a8-c2ce-4c99-8ed4-aafe41fc5cbb" />
+Sama Seperti fungsi pilihan 2 pada admin, akan menampilkan game list[Game_List]
+
+# Penjelasan Pilihan 2
+<img width="778" height="320" alt="image" src="https://github.com/user-attachments/assets/3f20b9d1-ad6d-4d8d-bada-c84195b892b0" />
+Saat memilih Pilihan 2, Program akan akan kembali menampilkan menu awal yaitu menu login dan keluar
+
+# Hentikan Program
+
+# Keluar Dari Program
+<img width="777" height="214" alt="image" src="https://github.com/user-attachments/assets/ccba45ef-3e52-44a7-a4c0-6336a956ce41" />
+Disaat tampilan menu awal dan memilih pilihan 3, maka program akan melakukan os._exit(0) dan menghentikan seluruh program
